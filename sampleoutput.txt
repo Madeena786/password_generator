@@ -1,0 +1,10 @@
+===================================
+       PASSWORD GENERATOR
+===================================
+Enter password length: 10
+Include letters? (yes/no): yes
+Include numbers? (yes/no): yes
+Include symbols? (yes/no): yes
+
+Generated Password: 'MC2Zgdvw%
+Password Length: 10
